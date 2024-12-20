@@ -5,8 +5,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=NavodyaHasanga&color=blueviolet)
   [![GitHub Followers](https://img.shields.io/github/followers/NavodyaHasanga?style=social)](https://github.com/NavodyaHasanga)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://linkedin.com/in/NavodyaHasanga)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=social&logo=twitter)](https://twitter.com/NavodyaHasanga)
-
+  
 </div>
 
 <p align="center">
