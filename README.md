@@ -42,7 +42,7 @@
 
 ## 🎯 Current Focus
 
-- 🎓 Undergraduate student at the [Open University of Sri Lanka](https://www.ou.ac.lk/)
+- 🎓 Undergraduate student at the Open University of Sri Lanka pursuing a BSc in Information Technology.(https://www.ou.ac.lk/)
 - 🌱 Continuously learning new technologies and frameworks
 - 👯 Open to collaborating on exciting projects
 - 💬 Feel free to ask me about Python, Web Development, or any tech-related topics
@@ -51,10 +51,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NavodyaHasanga)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NavodyaHasanga)
-  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navodyahasanga@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://navodyahasanga.github.io/)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NavodyaHasanga)
+  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navodyahasanga44@gmail.com)
 
 </div>
 
