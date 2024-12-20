@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Navodya Hasanga</h1>
+<h1 align="center">Hi there 👋, I'm Navodya Hasanga Abeysekara</h1>
 
 <div align="center">
   
