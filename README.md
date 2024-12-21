@@ -60,3 +60,34 @@
 ---
 
 <div align="center">⭐️ From [NavodyaHasanga](https://github.com/NavodyaHasanga)</div>
+
+## 🏆 Trophy
+
+```html
+<svg width="100" height="120" viewBox="0 0 100 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Definitions for Gradient -->
+    <defs>
+        <linearGradient id="trophyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#FFD700; stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#DAA520; stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Trophy Cup -->
+    <path d="M30 20 L70 20 L65 80 L35 80 Z" fill="url(#trophyGradient)" stroke="#DAA520" stroke-width="2"/>
+    
+    <!-- Trophy Handles -->
+    <path d="M70 30 Q90 30 90 45 Q90 60 70 60" fill="none" stroke="#DAA520" stroke-width="3"/>
+    <path d="M30 30 Q10 30 10 45 Q10 60 30 60" fill="none" stroke="#DAA520" stroke-width="3"/>
+    
+    <!-- Trophy Base -->
+    <rect x="25" y="80" width="50" height="5" fill="#DAA520"/>
+    <rect x="35" y="85" width="30" height="15" fill="#DAA520"/>
+    <rect x="20" y="100" width="60" height="10" fill="#DAA520"/>
+    
+    <!-- Trophy Shine -->
+    <path d="M40 30 L45 35 L40 40" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Star on Top -->
+    <path d="M50 5 L54 15 L65 15 L56 22 L60 32 L50 26 L40 32 L44 22 L35 15 L46 15 Z" fill="#FFFFFF"/>
+</svg>
