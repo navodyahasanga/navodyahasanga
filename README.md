@@ -52,7 +52,6 @@
 
 <div align="center">
   
-  [![LinkedIn](www.linkedin.com/in/navodya-hasanga-abeysekara-997652237)
   [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navodyahasanga44@gmail.com)
 
 </div>
