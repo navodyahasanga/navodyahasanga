@@ -42,7 +42,7 @@
 
 ## 🎯 Current Focus
 
-- 🎓 Undergraduate student at the Open University of Sri Lanka pursuing a BSc in Information Technology.(https://www.ou.ac.lk/)
+- 🎓 Undergraduate student at the ESOFT Metro Campus pursuing a BSc in Information Technology.
 - 🌱 Continuously learning new technologies and frameworks
 - 👯 Open to collaborating on exciting projects
 - 💬 Feel free to ask me about Python, Web Development, or any tech-related topics
